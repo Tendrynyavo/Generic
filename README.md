@@ -2,3 +2,4 @@
 - Class Généralisé pour :
   - la gestion de base de donnéé
   - formulaire généralisé
+  - fonction d'agrégation comme trier des objects
